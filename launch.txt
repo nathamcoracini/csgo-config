@@ -1,0 +1,1 @@
+-freq 240 -no-browser -novid -noaafonts -nojoy -tickrate 128 -high +exec autoexec +snd_use_hrtf 0
