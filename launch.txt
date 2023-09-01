@@ -1,1 +1,1 @@
--freq 240 -no-browser -novid -noaafonts -nojoy -tickrate 128 -high +exec autoexec +snd_use_hrtf 0
+-freq 240 -novid -nojoy -tickrate 128 -nothreadedsockets +exec autoexec.cfg
